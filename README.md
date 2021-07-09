@@ -7,3 +7,7 @@ Projects list coming from wwww.frontendmentor.io
 - Four-cards-feature-section :   
 	github url: https://github.com/Vincecodeur/Four-cards-feature-section  
 	live url: https://vincecodeur.github.io/Four-cards-feature-section/  
+
+- 3-column preview card component:
+	github url: https://github.com/Vincecodeur/-3-column-preview-card-component
+	live url: https://vincecodeur.github.io/-3-column-preview-card-component/
